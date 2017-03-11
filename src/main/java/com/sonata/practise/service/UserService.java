@@ -10,7 +10,7 @@ public class UserService {
 	}
 
 	public Boolean isUserExist(String email) {
-		if ("test@gmail.com".equalsIgnoreCase(email))
+		if ("testdsf@gmail.com".equalsIgnoreCase(email))
 			return true;
 		else
 			return false;
